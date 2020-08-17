@@ -6,4 +6,9 @@ date: 2020-03-11 18:42:53 +0800
 tags: [test, hello]
 ---
 
-Hello World! This is a post for testing the looking of Hamilton.
+Me llamo Jaime David Llamuca Figueroa. 
+Nací en el 30 de junio del 1998, tengo 22 años, vivo actualmente con mi padre, tia y mis dos hermanos (Por parte de papá es de la Sierra y mi madre es parte de Manabí), yo soy el hermano mayor de ellos.
+Vivo en Guayaquil - Ecuador, mi dirección es la 24 Oriente.
+Estudio en la universidad Guayaquil, estoy en primer semestre en la carrera de Ing. Software.
+Me gusta pasar en mis tiempos libres es hacer deportes, escuchar música y tenemos la costumbre de siempre pasar los fines de semanas reunidos toda la familia.
+
