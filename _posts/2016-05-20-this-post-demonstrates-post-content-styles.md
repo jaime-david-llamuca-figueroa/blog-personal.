@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
+title: "Educación"
 categories: junk
 tags: [markdown, css, html]
 author:
