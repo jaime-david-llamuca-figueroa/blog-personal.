@@ -1,10 +1,9 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-theme-hamilton"
-  spec.version       = "3.1.0"
-  spec.authors       = ["Shangzhi Huang"]
-  spec.email         = ["ngzhio@gmail.com"]
+  espec . nombre           =  "jaime llamuca "
+espec . autores        =  [ "jaime llamuca" ]
+espec . email          =  [ "jaimellamuca30@gmail.com" ]
 
   spec.summary       = "A minimal and beautiful Jekyll theme best for writing and note-taking."
   spec.homepage      = "https://github.com/ngzhio/jekyll-theme-hamilton"
