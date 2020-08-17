@@ -1,7 +1,8 @@
 title: Jaime David Llamuca Figueroa 
 description: A minimal and beautiful Jekyll theme best for writing and note-taking.
 author: Jaime Llamuca 
-avatar: /jai.jpg
+avatar: /Jll.jpg
+
 email: jaimellamuca30@hotmail.com
 
 plugins:
@@ -32,7 +33,8 @@ exclude:
 twitter:
   username: jaimellamuca
   card: summary
-logo:  /jai.jpg
+logo:  /Jll.jpg
+
 social:
   name: jaime llamuca 
   links:
