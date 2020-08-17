@@ -5,8 +5,9 @@ Gem::Specification.new do |spec|
 espec . autores        =  [ "jaime llamuca" ]
 espec . email          =  [ "jaimellamuca30@gmail.com" ]
 
-  spec.summary       = "A minimal and beautiful Jekyll theme best for writing and note-taking."
-  spec.homepage      = "https://github.com/ngzhio/jekyll-theme-hamilton"
+  
+  espec . summary        =  "XD"
+espec . página de inicio       =  "https://github.com/jaime-david-llamuca-figueroa"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
