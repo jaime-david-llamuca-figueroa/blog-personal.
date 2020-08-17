@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About
+title: Informaciòn Personal
 permalink: /about/
 ---
 
-Me llamo Jaime David Llamuca Figueroa. 
-Nací en el 30 de junio del 1998, tengo 22 años, vivo actualmente con mi padre(Por parte de papá es de la Sierra y mi madre es parte de Manabí), tia y mis dos hermanos ,yo soy el hermano mayor de ellos. &nbsp;
+Me llamo Jaime David Llamuca Figueroa.Nací en el 30 de junio del 1998, tengo 22 años, vivo actualmente con mi padre(Por parte de papá es de la Sierra y mi madre es parte de Manabí), tia y mis dos hermanos ,yo soy el hermano mayor de ellos. &nbsp;
 
 Vivo en Guayaquil - Ecuador, mi dirección es la 24 Oriente. &nbsp;
 
