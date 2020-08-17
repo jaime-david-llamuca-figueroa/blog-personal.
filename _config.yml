@@ -1,6 +1,6 @@
 title: Jaime David Llamuca Figueroa 
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
+description: !!Bienvenido a mi Blog Personal !!!!
+author: jaime llamuca 
 avatar: /jai.jpg
 email: jaimellamuca30@hotmail.com
 
@@ -30,11 +30,11 @@ exclude:
 # Jekyll SEO Tag (Optional)
 # =========================
 twitter:
-  username: ngzhio
+  username: jaimellamuca
   card: summary
 logo: /jai.jpg
 social:
-  name: Shangzhi Huang
+  name: jaime llamuca 
   links:
     - https://twitter.com/LlamucaJaime
     - https://www.facebook.com/jaime.llamu.17XD
