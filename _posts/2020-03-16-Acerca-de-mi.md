@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Acerca  mí 
+title: Acerca  de mí
 author: Jaime Llamuca 
 date:   2020-08-16 18:32:00 +0800
 
