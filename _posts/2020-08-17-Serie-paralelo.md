@@ -1,8 +1,7 @@
 ---
 layout: post
 title: SERIE -PARALELO
-author:
-- jaime llamuca 
+
 ---
 
 # SERIE - PARALELO
