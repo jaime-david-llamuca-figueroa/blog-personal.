@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Tipos de Modems
-author: Jaime Llamuca 
 
 -----
 
