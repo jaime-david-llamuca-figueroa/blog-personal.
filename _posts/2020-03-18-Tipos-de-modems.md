@@ -2,9 +2,8 @@
 layout: post
 title: Tipos de Modems
 
------
+---
 
-# TIPOS DE MÓDEMS
 ## Módems coaxiales de fibra óptica (HFC, Hybrid Fiber - Coax): 
 Son dispositivos bidireccionales que operan por el cable HFC. Ofrecen velocidades de carga en el rango de3 a 30 Mb, con velocidades de descarga que van de 1280 Kb hasta 10 Mb, aunque actualmente los usuarios pueden esperar velocidades alrededor de 4 Mb.&nbsp;
 
