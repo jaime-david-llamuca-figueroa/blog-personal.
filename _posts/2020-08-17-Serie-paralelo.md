@@ -4,8 +4,6 @@ title: SERIE - PARALELO
 
 ---
 
-# SERIE - PARALELO
-
 La transmisión en modo paralelo es aquella que los bits que componen cada byte o carácter se transmiten en un solo ciclo de n bist. Posee las siguientes características:
 Este modo que se usa en todos los ordenadores para realizar la transferencia interna de los datos.&nbsp;
 
