@@ -1,8 +1,9 @@
----
+------
 layout: post
-title: SERIE -PARALELO
+title: SERIE - PARALELO
 
 ---
+
 
 # SERIE - PARALELO
 
