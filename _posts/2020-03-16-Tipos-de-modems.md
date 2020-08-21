@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Acerca  de mí
+title: Tipos de Modems
 author: Jaime Llamuca 
 date:   2020-08-17 18:32:00 +0800
 -----
