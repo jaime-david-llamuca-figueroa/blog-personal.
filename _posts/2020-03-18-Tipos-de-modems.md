@@ -2,6 +2,7 @@
 layout: post
 title: Tipos de Modems
 author: Jaime Llamuca 
+
 -----
 
 # TIPOS DE MÓDEMS
